@@ -1,3 +1,17 @@
+/* 
+programmer: Yusra Kamal
+Section: BDS-1A
+Roll NO: 26K-2518
+Assignment: 2
+Question: 1
+topic : daily sales bar chart
+*/
+
+
+
+
+
+
 #include <stdio.h>
 
 int   getValidDays();
